@@ -1,0 +1,38 @@
+.primary-background{
+    background: #007bff !important;
+}
+
+#signUp{
+   
+   padding-bottom: 150px;
+}
+#Login{
+   
+    padding-bottom: 70px;
+}
+* {
+  box-sizing: border-box;
+}
+
+@media (max-width:1111px){
+    
+  .col-md-10{
+        text-align: center;
+        color: red;
+        width: 100%;
+        
+    }
+    .col-md-4{
+        text-align: center;
+        color: red;
+        width: 100%;
+        column-count: 1;
+        height: auto;
+        flex-direction: column;
+        
+       
+        
+    }
+  
+}
+
